@@ -100,7 +100,7 @@ namespace IceCreamMonitorMVP
 
         public void DateChanged(string text, DateTime? dpDateSelectedDate)
         {
-            
+            //Don't know what to do with this method.
         }
     }
 }
